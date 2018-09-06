@@ -17,6 +17,7 @@
     border: none !important;
 }
 
-.wufoo input.text, .wufoo textarea.textarea, .wufoo input.file, .wufoo select.select {
+/* .wufoo input.text, .wufoo textarea.textarea, .wufoo input.file, .wufoo select.select {
     margin: 0 5rem 0 0 !important;
-}
+    width: 100% !important;
+} */
